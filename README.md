@@ -3,6 +3,8 @@ A project for the computational physics course taught at UC by Henry Schreiner. 
 
 To Run this project(and reproduce my results):
 
+ a) download files from both gethub and blackboard (the data is on blackboard) 
+
  a) go into the .py file and edit the variable homefolder to reflect the current root file location
  
  b) change the directory from the command line to be in the same folder as your project ie execute cd /path/
