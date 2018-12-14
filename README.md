@@ -57,6 +57,6 @@ To Run this project(and reproduce my results):
  
  aa) press set fit
  
- ab) set the initial parameters as .1 .146 and .1 respecively 
+ ab) set the initial parameters as .01 .146 and .01 respecively 
  
  ac) click try the fitting and scream triamphantly  
